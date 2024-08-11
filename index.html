@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crazy Lab - TikTok Handler</title>
-    <link rel="stylesheet" href="../general.css">
+    <link rel="stylesheet" href="../chat.css">
     <link rel="stylesheet" href="./styles.css">
     <script defer src="https://unpkg.com/@streamerbot/client/dist/streamerbot-client.js"></script>
     <script type="module" src="js/server.js"></script>
@@ -13,25 +13,27 @@
 <body>
     <div id="selectInstance">
         <div>Status: <span id="status">Disconnected</span></div>
-        <input type="button" id="instanceSelect" value="TikTok" data-instance=1>
-        <input type="button" id="instanceSelect" value="Twitch" data-instance=2>
-        <input type="button" id="instanceSelect" value="Orkut" data-instance=3>
+        <input type="button" class="instanceSelect" value="TikTok" data-instance=1>
+        <input type="button" class="instanceSelect" value="Twitch" data-instance=2>
+        <input type="button" class="instanceSelect" value="Orkut" data-instance=3>
     </div>
     <div id="instance">
         <div id="debug-interface" class="debug-off">
-            <input type="button" value="Reset" onclick="debugFunction('reset', 0);">
-            <input type="button" value="Member" onclick="debugFunction('member', 1);">
-            <input type="button" value="Message" onclick="debugFunction('chat', 1);">
-            <input type="button" value="Follow" onclick="debugFunction('follow', 1);">
-            <input type="button" value="Share" onclick="debugFunction('share', 1);">
-            <input type="button" value="Like" onclick="debugFunction('like', 1);">
-            <input type="button" value="Gift" onclick="debugFunction('gift', 1);">
-            <input type="button" value="Subscriber" onclick="debugFunction('subscriber', 1);">
+            <input type="button" class="debugInterface" value="Reset" data-debugType="reset" data-debugValue=0>
+            <input type="button" class="debugInterface" value="Member" data-debugType="member" data-debugValue=1>
+            <input type="button" class="debugInterface" value="Message" data-debugType="chat" data-debugValue=1>
+            <input type="button" class="debugInterface" value="Follow" data-debugType="follow" data-debugValue=1>
+            <input type="button" class="debugInterface" value="Share" data-debugType="share" data-debugValue=1>
+            <input type="button" class="debugInterface" value="Like" data-debugType="like" data-debugValue=1>
+            <input type="button" class="debugInterface" value="Gift" data-debugType="gift" data-debugValue=1>
+            <input type="button" class="debugInterface" value="Subscriber" data-debugType="subscriber" data-debugValue=1>
         </div>
         <br>
         <div id="messageLog"></div>
         <br>
         <div id="eventLog"></div>
+        <br>
+        <div id="chatLog"></div>
     </div>
 </body>
 </html>
