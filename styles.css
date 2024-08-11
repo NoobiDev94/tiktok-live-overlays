@@ -3,6 +3,24 @@
     text-shadow: 0px 5px 10px #000;
 }
 
+
+#selectInstance {
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    display: block;
+}
+
+#instance {
+    display: none;
+}
+
+
 .goalBox {
     margin: 15px;
     border-radius: 15px;
