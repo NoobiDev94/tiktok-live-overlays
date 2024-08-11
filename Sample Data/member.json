@@ -1,0 +1,40 @@
+{
+    "event": "member",
+    "data": {
+      "actionId": 1,
+      "userId": "7318182221520733189",
+      "secUid": "MS4wLjABAAAAWVaI2QvkZoHogDiiXHxbNc3blq6GH3cP-rVCf-x06WAV07L5KVZFDIiWJXvIbaTM",
+      "uniqueId": "mariachpiwb",
+      "nickname": "1",
+      "profilePictureUrl": "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.webp?lk3s=a5d48078&nonce=18030&refresh_token=bbc3df0497791d2c0d468835e7b644cb&x-expires=1723179600&x-signature=5BVt2e2wgTiDpmrrypy%2F9oZLpac%3D&shp=a5d48078&shcp=fdd36af4",
+      "followRole": 0,
+      "userBadges": [],
+      "userSceneTypes": [],
+      "userDetails": {
+        "createTime": "0",
+        "bioDescription": "",
+        "profilePictureUrls": [
+          "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~tplv-tiktok-shrink:72:72.webp?lk3s=a5d48078&nonce=8743&refresh_token=44223ab73feaa550aa80347147ef035f&x-expires=1723179600&x-signature=1SeJr4XWiSN%2F1uIQi4MDJBm3MrY%3D&shp=a5d48078&shcp=fdd36af4",
+          "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.webp?lk3s=a5d48078&nonce=18030&refresh_token=bbc3df0497791d2c0d468835e7b644cb&x-expires=1723179600&x-signature=5BVt2e2wgTiDpmrrypy%2F9oZLpac%3D&shp=a5d48078&shcp=fdd36af4",
+          "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.webp?lk3s=a5d48078&nonce=60053&refresh_token=1e5df4dffc6ed034acd3a5a00ed40404&x-expires=1723179600&x-signature=%2BaAI8NlhOn%2BkgFxTXfU1XEliX8s%3D&shp=a5d48078&shcp=fdd36af4",
+          "https://p77-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?lk3s=a5d48078&nonce=26656&refresh_token=a51408a6e282c9d92cab927a5ee5055c&x-expires=1723179600&x-signature=werAUuq3ovg6bkuqIEMvGU%2FXin8%3D&shp=a5d48078&shcp=fdd36af4"
+        ]
+      },
+      "followInfo": {
+        "followingCount": 25,
+        "followerCount": 4,
+        "followStatus": 0,
+        "pushStatus": 0
+      },
+      "isModerator": false,
+      "isNewGifter": false,
+      "isSubscriber": false,
+      "topGifterRank": null,
+      "gifterLevel": 0,
+      "teamMemberLevel": 0,
+      "msgId": "7400269779949374214",
+      "createTime": "1723009577390",
+      "displayType": "live_room_enter_toast",
+      "label": "{0:user} joined"
+    }
+  }

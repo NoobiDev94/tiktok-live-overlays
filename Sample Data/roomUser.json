@@ -1,0 +1,62 @@
+{
+    "event": "roomUser",
+    "data": {
+      "topViewers": [
+        {
+          "user": {
+            "userId": "7387994481255056390",
+            "secUid": "MS4wLjABAAAADnWymyLpFEF1-RurEjGEH099SeKiwcbGEGFkbdJ3aHvcwmqMv1c4zmC4DyjemENh",
+            "uniqueId": "shows.bloxburgg",
+            "nickname": "Shows bloxburg",
+            "profilePictureUrl": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cde9b4a06192ee07a5cf66f81beacd41~c5_100x100.webp?lk3s=a5d48078&nonce=67668&refresh_token=a6e4205a47e979f90c27b421fbb7b5e6&x-expires=1723179600&x-signature=91P%2FiY84Kg0KI6L0UngFwvGUH4A%3D&shp=a5d48078&shcp=fdd36af4",
+            "userBadges": [],
+            "userSceneTypes": [],
+            "userDetails": {
+              "createTime": "0",
+              "bioDescription": "",
+              "profilePictureUrls": [
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cde9b4a06192ee07a5cf66f81beacd41~c5_100x100.webp?lk3s=a5d48078&nonce=67668&refresh_token=a6e4205a47e979f90c27b421fbb7b5e6&x-expires=1723179600&x-signature=91P%2FiY84Kg0KI6L0UngFwvGUH4A%3D&shp=a5d48078&shcp=fdd36af4",
+                "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cde9b4a06192ee07a5cf66f81beacd41~c5_100x100.webp?lk3s=a5d48078&nonce=84928&refresh_token=42ef2288e0d76c5724cde9f73e592565&x-expires=1723179600&x-signature=qkq6rg40sxUU4zwvdPkaPM8%2FWD8%3D&shp=a5d48078&shcp=fdd36af4",
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/cde9b4a06192ee07a5cf66f81beacd41~c5_100x100.jpeg?lk3s=a5d48078&nonce=17923&refresh_token=c0c3fee747e60098d965df609b129df5&x-expires=1723179600&x-signature=3YBAC3W1NpeCBtTPwEH%2FzWMkmQ4%3D&shp=a5d48078&shcp=fdd36af4"
+              ]
+            },
+            "isModerator": false,
+            "isNewGifter": false,
+            "isSubscriber": false,
+            "topGifterRank": null,
+            "gifterLevel": 0,
+            "teamMemberLevel": 0
+          },
+          "coinCount": 0
+        },
+        {
+          "user": {
+            "userId": "7336611895393518597",
+            "secUid": "MS4wLjABAAAAuxAbDr8j_Z37xf9Zqh6uUUMNbZRKYmZHbxx42mOrNJKnVFFRZgW7hZYjCHSz0igU",
+            "uniqueId": "elisandro.morais",
+            "nickname": "Elisandro Morais",
+            "profilePictureUrl": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76992c5ceef7abe7b3fe5b994dbd8024~c5_100x100.webp?lk3s=a5d48078&nonce=11795&refresh_token=b3bcd49f73d024d9ad44e526eedf1d73&x-expires=1723179600&x-signature=JFSDWt5eJLsAKuH%2BcLw%2B8OI4TSs%3D&shp=a5d48078&shcp=fdd36af4",
+            "userBadges": [],
+            "userSceneTypes": [],
+            "userDetails": {
+              "createTime": "0",
+              "bioDescription": "",
+              "profilePictureUrls": [
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76992c5ceef7abe7b3fe5b994dbd8024~c5_100x100.webp?lk3s=a5d48078&nonce=11795&refresh_token=b3bcd49f73d024d9ad44e526eedf1d73&x-expires=1723179600&x-signature=JFSDWt5eJLsAKuH%2BcLw%2B8OI4TSs%3D&shp=a5d48078&shcp=fdd36af4",
+                "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76992c5ceef7abe7b3fe5b994dbd8024~c5_100x100.webp?lk3s=a5d48078&nonce=68397&refresh_token=512885902e37193a253ac9ef11606296&x-expires=1723179600&x-signature=g7gGyh0yIu3DQJFZBrllEe4apGA%3D&shp=a5d48078&shcp=fdd36af4",
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/76992c5ceef7abe7b3fe5b994dbd8024~c5_100x100.jpeg?lk3s=a5d48078&nonce=97120&refresh_token=0451f25074fa5ede6e8e8092acbaa7dc&x-expires=1723179600&x-signature=DY4BsO7BupvJh1ijwacpQu8dyDQ%3D&shp=a5d48078&shcp=fdd36af4"
+              ]
+            },
+            "isModerator": false,
+            "isNewGifter": false,
+            "isSubscriber": false,
+            "topGifterRank": null,
+            "gifterLevel": 0,
+            "teamMemberLevel": 0
+          },
+          "coinCount": 0
+        }
+      ],
+      "viewerCount": 2
+    }
+  }
